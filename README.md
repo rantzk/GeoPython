@@ -14,7 +14,7 @@
 
 On win7, 10 64bit (with existing qgis and python installation. Might be easier without)
 
-1. [Download ](https://www.anaconda.com/distribution/)and Install Anaconda
+1.Download and Install Anaconda [Download ](https://www.anaconda.com/distribution/)
 
 2. Test that the Anaconda´s package manage called conda works by [opening a command prompt as a admin user](http://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/) and running command conda --version
 
