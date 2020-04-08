@@ -9,7 +9,7 @@
 
 
 <a name="Installation"/>
-## How to for installing of GeoPython Environment:
+## "How to" installing of GeoPython Environment:
 ## Anaconda with Jupyter Notebook, PYqgis, Spyder IDE, and more
 
 On win7, 10 64bit (with existing qgis and python installation. Might be easier without)
@@ -88,7 +88,7 @@ conda install notebook
 
 python -m ipykernel install --user --name testenv
 
-If not help then the sources was:
+If did not help then the sources was:
 1.
 
 *I was able to solve the problem by installing a jupyter notebook within my new environment.*
